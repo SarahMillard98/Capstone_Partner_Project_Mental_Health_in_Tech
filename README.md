@@ -1,1 +1,1 @@
-# Capstone_Project_Mental_Health_in_Tech
+# Capstone Partner Project: Mental Health in Tech
