@@ -1,4 +1,4 @@
-# Capstone Partner Project: Mental Health in Tech
+# Capstone Project: Mental Health in Tech
 This repository contains only my contributions to a capstone project I completed with a partner during my Data Science Master's program. 
 
 ## Project Goals
